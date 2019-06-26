@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Game of Life
+date:   2019-06-26
+categories:
+---
+[Game of Life](https://github.com/ShaneBeuerman/Life)
+
+The Game of Life This program features a short demonstration of Conway's Game of Life. It shows a glider move across the screen and updates every tenth of a second.
