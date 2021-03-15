@@ -1,9 +1,0 @@
----
-layout: post
-title:  Nonagram
-date:   2021-03-15
-categories:
----
-[Nonagram](https://github.com/ShaneBeuerman/Nonagram)
-
-A Nonagram game
