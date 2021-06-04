@@ -1,0 +1,9 @@
+---
+layout: post
+title:  Hangman
+date:   2021-06-04
+categories:
+---
+[Hangman](https://github.com/ShaneBeuerman/Hangman)
+
+A game of hangman
